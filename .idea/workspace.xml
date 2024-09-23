@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add GreeterTest.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/InitOrder.kt" afterDir="false" />
+    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add PersonA.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/PersonB.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,12 +97,28 @@
       <option name="project" value="LOCAL" />
       <updated>1727086438811</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add InitOrder.kt">
+      <created>1727086815439</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727086815439</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add PersonA.kt">
+      <created>1727086959848</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727086959848</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Greeter.kt" />
     <MESSAGE value="Add GreeterTest.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add GreeterTest.kt" />
+    <MESSAGE value="Add InitOrder.kt" />
+    <MESSAGE value="Add PersonA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PersonA.kt" />
   </component>
 </project>
