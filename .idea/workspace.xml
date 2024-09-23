@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add Enkapsulasi.kt" />
+    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add EnkapsulasiA.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/EnkapsulasiB.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -167,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727096805419</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add EnkapsulasiA.kt">
+      <created>1727096879892</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727096879892</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -181,6 +191,7 @@
     <MESSAGE value="Add PersonE.kt" />
     <MESSAGE value="Add PersonF.kt" />
     <MESSAGE value="Add Enkapsulasi.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Enkapsulasi.kt" />
+    <MESSAGE value="Add EnkapsulasiA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add EnkapsulasiA.kt" />
   </component>
 </project>
