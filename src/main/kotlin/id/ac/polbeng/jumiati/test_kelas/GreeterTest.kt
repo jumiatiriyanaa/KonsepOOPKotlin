@@ -9,3 +9,4 @@ fun main() {
     greeter.text = "Hello programmer"
     println(greeter.with_ret_val("Dono"))
 }
+
