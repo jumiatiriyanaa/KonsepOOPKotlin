@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add InterfaceD.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/NestedInnerClass.kt" afterDir="false" />
+    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add DataClassB.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/DataClassC.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,15 +297,45 @@
       <option name="project" value="LOCAL" />
       <updated>1727198833773</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Add NestedInnerClass.kt">
+      <created>1727198907778</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1727198907778</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Add NestedInnerClassA.kt">
+      <created>1727198969285</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1727198969285</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Add NestedInnerClassB.kt">
+      <created>1727199030096</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1727199030096</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Add DataClassA.kt">
+      <created>1727199129949</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1727199129949</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add DataClassB.kt">
+      <created>1727199167257</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1727199167257</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add InitOrder.kt" />
-    <MESSAGE value="Add PersonA.kt" />
-    <MESSAGE value="Add PersonB.kt" />
-    <MESSAGE value="Add PersonC.kt" />
-    <MESSAGE value="Add PersonD.kt" />
     <MESSAGE value="Add PersonE.kt" />
     <MESSAGE value="Add PersonF.kt" />
     <MESSAGE value="Add Enkapsulasi.kt" />
@@ -326,6 +356,11 @@
     <MESSAGE value="Add InterfaceB.kt" />
     <MESSAGE value="Add InterfaceC.kt" />
     <MESSAGE value="Add InterfaceD.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add InterfaceD.kt" />
+    <MESSAGE value="Add NestedInnerClass.kt" />
+    <MESSAGE value="Add NestedInnerClassA.kt" />
+    <MESSAGE value="Add NestedInnerClassB.kt" />
+    <MESSAGE value="Add DataClassA.kt" />
+    <MESSAGE value="Add DataClassB.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassB.kt" />
   </component>
 </project>
