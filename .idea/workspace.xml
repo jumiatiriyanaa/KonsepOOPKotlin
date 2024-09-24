@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add VisibilityA.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/AccessModifierA(abstrak).kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add InterfaceD.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/NestedInnerClass.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,12 +262,45 @@
       <option name="project" value="LOCAL" />
       <updated>1727197844791</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add AccessModifierA(abstrak).kt">
+      <created>1727198617106</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1727198617106</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add InterfaceA.kt">
+      <created>1727198669481</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1727198669481</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add InterfaceB.kt">
+      <created>1727198725622</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1727198725622</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Add InterfaceC.kt">
+      <created>1727198780722</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1727198780722</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Add InterfaceD.kt">
+      <created>1727198833773</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1727198833773</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Greeter.kt" />
-    <MESSAGE value="Add GreeterTest.kt" />
     <MESSAGE value="Add InitOrder.kt" />
     <MESSAGE value="Add PersonA.kt" />
     <MESSAGE value="Add PersonB.kt" />
@@ -289,6 +321,11 @@
     <MESSAGE value="Add PolymorphismA.kt" />
     <MESSAGE value="Add PolymorphismB.kt" />
     <MESSAGE value="Add VisibilityA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add VisibilityA.kt" />
+    <MESSAGE value="Add AccessModifierA(abstrak).kt" />
+    <MESSAGE value="Add InterfaceA.kt" />
+    <MESSAGE value="Add InterfaceB.kt" />
+    <MESSAGE value="Add InterfaceC.kt" />
+    <MESSAGE value="Add InterfaceD.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InterfaceD.kt" />
   </component>
 </project>
