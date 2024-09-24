@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add InheritanceF.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/InheritanceG.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add InheritanceH.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/PolymorphismA.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +227,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727152923103</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Add InheritanceG.kt">
+      <created>1727197042115</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1727197042115</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add InheritanceH.kt">
+      <created>1727197244348</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1727197244348</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,6 +262,8 @@
     <MESSAGE value="Add InheritanceC.kt" />
     <MESSAGE value="Add InheritanceE.kt" />
     <MESSAGE value="Add InheritanceF.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceF.kt" />
+    <MESSAGE value="Add InheritanceG.kt" />
+    <MESSAGE value="Add InheritanceH.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceH.kt" />
   </component>
 </project>
