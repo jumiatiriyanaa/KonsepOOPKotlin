@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add DataClassB.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/DataClassC.kt" afterDir="false" />
+    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add DataClassF.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/AccessModifierA.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,37 +40,37 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InterfaceAKt">
-    <configuration name="AccessModifierA_abstrak_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.jumiati.test_kelas.AccessModifierA_abstrak_Kt" />
+  <component name="RunManager" selected="Kotlin.AccessModifierAKt (1)">
+    <configuration name="AccessModifierAKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccessModifierAKt" />
       <module name="KonsepOOPKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.jumiati.test_kelas.InheritanceCKt" />
+    <configuration name="AccessModifierAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.jumiati.test_kelas.AccessModifierAKt" />
       <module name="KonsepOOPKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceGKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.jumiati.test_kelas.InheritanceGKt" />
+    <configuration name="NestedInnerClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.jumiati.test_kelas.NestedInnerClassAKt" />
       <module name="KonsepOOPKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.jumiati.test_kelas.InterfaceAKt" />
+    <configuration name="NestedInnerClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.jumiati.test_kelas.NestedInnerClassBKt" />
       <module name="KonsepOOPKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.jumiati.test_kelas.PersonFKt" />
+    <configuration name="NestedInnerClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.jumiati.test_kelas.NestedInnerClassKt" />
       <module name="KonsepOOPKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.InterfaceAKt" />
-        <item itemvalue="Kotlin.AccessModifierA_abstrak_Kt" />
-        <item itemvalue="Kotlin.InheritanceGKt" />
-        <item itemvalue="Kotlin.InheritanceCKt" />
-        <item itemvalue="Kotlin.PersonFKt" />
+        <item itemvalue="Kotlin.AccessModifierAKt (1)" />
+        <item itemvalue="Kotlin.AccessModifierAKt" />
+        <item itemvalue="Kotlin.NestedInnerClassBKt" />
+        <item itemvalue="Kotlin.NestedInnerClassAKt" />
+        <item itemvalue="Kotlin.NestedInnerClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -332,14 +333,38 @@
       <option name="project" value="LOCAL" />
       <updated>1727199167257</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Add DataClassC.kt">
+      <created>1727199204820</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1727199204820</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Add DataClassD.kt">
+      <created>1727199261984</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1727199261984</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Add DataClassE.kt">
+      <created>1727199429995</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1727199429995</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Add DataClassF.kt">
+      <created>1727199550105</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1727199550105</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add PersonE.kt" />
-    <MESSAGE value="Add PersonF.kt" />
-    <MESSAGE value="Add Enkapsulasi.kt" />
-    <MESSAGE value="Add EnkapsulasiA.kt" />
     <MESSAGE value="Add EnkapsulasiB.kt" />
     <MESSAGE value="Add InheritanceA.kt" />
     <MESSAGE value="Add InheritanceB.kt" />
@@ -361,6 +386,10 @@
     <MESSAGE value="Add NestedInnerClassB.kt" />
     <MESSAGE value="Add DataClassA.kt" />
     <MESSAGE value="Add DataClassB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassB.kt" />
+    <MESSAGE value="Add DataClassC.kt" />
+    <MESSAGE value="Add DataClassD.kt" />
+    <MESSAGE value="Add DataClassE.kt" />
+    <MESSAGE value="Add DataClassF.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassF.kt" />
   </component>
 </project>
