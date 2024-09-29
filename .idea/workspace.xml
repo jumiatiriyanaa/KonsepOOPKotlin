@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add DataClassF.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/AccessModifierA.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ed9cb53a-617e-41a5-9b7e-7ba4850dadfe" name="Changes" comment="Add AccessModifierA.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/jumiati/test_kelas/InheritanceD.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.AccessModifierAKt (1)">
+  <component name="RunManager" selected="Kotlin.InheritanceDKt">
     <configuration name="AccessModifierAKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AccessModifierAKt" />
       <module name="KonsepOOPKotlin" />
@@ -50,6 +49,13 @@
     </configuration>
     <configuration name="AccessModifierAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.jumiati.test_kelas.AccessModifierAKt" />
+      <module name="KonsepOOPKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.jumiati.test_kelas.InheritanceDKt" />
       <module name="KonsepOOPKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,20 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedInnerClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.jumiati.test_kelas.NestedInnerClassKt" />
-      <module name="KonsepOOPKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InheritanceDKt" />
         <item itemvalue="Kotlin.AccessModifierAKt (1)" />
         <item itemvalue="Kotlin.AccessModifierAKt" />
         <item itemvalue="Kotlin.NestedInnerClassBKt" />
         <item itemvalue="Kotlin.NestedInnerClassAKt" />
-        <item itemvalue="Kotlin.NestedInnerClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -361,11 +360,17 @@
       <option name="project" value="LOCAL" />
       <updated>1727199550105</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Add AccessModifierA.kt">
+      <created>1727623205890</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1727623205891</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add EnkapsulasiB.kt" />
     <MESSAGE value="Add InheritanceA.kt" />
     <MESSAGE value="Add InheritanceB.kt" />
     <MESSAGE value="Add InheritanceC.kt" />
@@ -390,6 +395,7 @@
     <MESSAGE value="Add DataClassD.kt" />
     <MESSAGE value="Add DataClassE.kt" />
     <MESSAGE value="Add DataClassF.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassF.kt" />
+    <MESSAGE value="Add AccessModifierA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add AccessModifierA.kt" />
   </component>
 </project>
